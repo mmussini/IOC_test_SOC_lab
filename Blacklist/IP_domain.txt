@@ -1242,6 +1242,7 @@ tesserarinnova.com
 tesserasanitalie.com
 tessr3ds.com
 tessr3ds.s3-website.us-east-2.amazonaws.com
+testing.excellasoftware.com
 thbio.kozow.com
 thedigitalnomadpapa.com
 theengn.cyou
@@ -1396,6 +1397,7 @@ wordpress-209510-0.cloudclusters.net
 wordpress-209538-0.cloudclusters.net
 wordpress-209643-0.cloudclusters.net
 wordpress-209677-0.cloudclusters.net
+wordpress-209726-0.cloudclusters.net
 wordpress-hrs3y.wasmer.app
 wordpress.jdevcloud.com
 worldwidepublication.com
