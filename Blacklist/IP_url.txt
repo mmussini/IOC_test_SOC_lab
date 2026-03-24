@@ -1660,6 +1660,7 @@ https://q2psuv-u0ien6-ljor43-q6f9mkdizm.s3.us-east-1.amazonaws.com/rrh63xmemo6b7
 https://qltw56khpj7cbyk2omvl.co-nz.es/bpm16571/
 https://qr-codes.io/OTyduU
 https://qr.coffee/lBRHJn
+https://qr.fm/2yGbhJ
 https://qr.fm/oz47SD
 https://qr1.be/43VY5C
 https://qr1.be/5PU1E6
@@ -2049,6 +2050,7 @@ https://tessr3ds.com/
 https://tessr3ds.com/support/billing/
 https://tessr3ds.com/support/billing/app/submit.php
 https://tessr3ds.s3-website.us-east-2.amazonaws.com/
+https://testing.excellasoftware.com/i/
 https://thedigitalnomadpapa.com/pagopa/log/msdpweb/
 https://thedigitalnomadpapa.com/pagopa/log/panel/classes/processor.php
 https://thegrapeco.cam/
@@ -2290,6 +2292,8 @@ https://wordpress-209643-0.cloudclusters.net/pagopa/log/
 https://wordpress-209677-0.cloudclusters.net/pagopa/log/
 https://wordpress-209677-0.cloudclusters.net/pagopa/log/msdpweb/index.php
 https://wordpress-209677-0.cloudclusters.net/pagopa/log/panel/classes/processor.php
+https://wordpress-209726-0.cloudclusters.net/ltd/nv/it/msdpweb/index.php
+https://wordpress-209726-0.cloudclusters.net/ltd/nv/it/panel/classes/processor.php
 https://wordpress-hrs3y.wasmer.app/wp-content/pagopa/log/msdpweb/index.php
 https://wordpress.jdevcloud.com/pago/msdpweb/index.php
 https://wordpress.jdevcloud.com/pago/panel/classes/processor.php
